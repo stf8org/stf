@@ -1,2 +1,509 @@
-# stf
+# <!DOCTYPE STFU/>
+<html>
+<head>
+<title>STF: Standard Text Format STF8 & STF*
+</title>
+</head>
+<body>
+<a name="STF" />
+<table border=10% width=100%><tr><td>
+<font size="80%" >STF</font>
+<h1>
 STF: Standard Text Format
+</h1>
+<h3>
+STF Completes the Unification of ALL Information.
+</h3>
+<hr>
+<ul><li>
+STF Accommodates all Text and Information, STF References with Associative Concepts, STF Universal Contexts and Accurate Means of Representation,  Wraps of ANY Complexity, and Connected Inclusions of Infrastructures.
+</li><li>
+STF includes Information packed in Expanders, STF Wraps, and Collections of Bits.
+</li><li>
+STF includes the arbitrary scope STF* and STF8 Standard.
+</li></ul>
+<h3>
+<a href="#stf8">STF8: STF "8-Bit" Standard.</a>
+</h3>
+STF in [0i..7i] bit "8-bit" Blocks.
+<h3>
+<a href="#stf*">STF*: STF Arbitrary Standard.</a> 
+</h3>
+STF in Arbitrary Bit-Scope Blocks.
+<h3>
+<a href="#stf0">STF0: STF for Antiquated IRI (URI, URL, HTTP, etc.)</a>
+</h3>
+
+</td></tr><tr><td>
+<ul><li>
+STF: Standard Text Format will facilitate accumulating all symbols into Books:
+<a href="#complete" >Completeness</a>
+</li><li>
+STF Standard Implementations are logically perfect. STF requires only the Get & Set of Bits! 
+</li><li>
+<a href="#impl" >Implementation</a>
+</li></ul>
+</td></tr></table>
+
+<p>
+
+<a name="stf0"/>
+<table border=10% width=100%><tr><td>
+<h1>
+STF0: STF Standards in Texts
+</h1>
+
+<h1>
+STF0: STF in Antiquated HTTP & IRI
+</h1>
+<ul><li>
+Only certain combinations of bits get through HTTP and IRI (URI, URL) correctly.
+</li><li>
+STF0 uses these antiquated patterns of misordered symbols to represent a form of STF called STF0 that matches the STF Standard.
+</li><li>
+STF0 matches STF Standard including STF8.
+</li></ul>
+<h2>
+Matching @(@)() & !()()
+</h2>
+<ul><li>
+Both the Context @(@) and Universal Context !()() have matching information.
+</li><li>
+@(@)() is easier to read but relies on "DNS".
+</li><li>
+!()() is more Technical.
+</li><li>
+The @(@) Context is a subset of !()().
+</li><li>
+@()() and !()() are Turns & Slots (Turn)(Slot) and can be (Turn'Turn)(Slot'Slot) separated by an "air comma" ''' to get through HTTP, IRI, and "file names".
+</li><li>
+@(@)(<b>@(@)()</b>) is an Associated Reference between Concepts in Contexts!
+</li></ul>
+<h2>
+@(@) Context
+</h2>
+<ul><li>
+STF0's @(@) Context is composed of a set of Turns.
+</li><li>
+@(pet@house.mysite.tld)
+</li><li>
+The @host.tld is the DNS.
+</li><li>
+@(pet'toys'3@house.mysite.tld)
+</li><li>
+The pet'toys'3 is the Context Turns, each separated by an "air comma" ''' like a lamp-post or street-sign.
+</li><li>
+Because HTTP & IRI can't handle letters correctly, STF0 is packed using %- "percent-encoding" of STF (& "UTF") characters.
+</li><li>
+The unique Context is held in a single record or file of the same "file name" IRI.
+</li><li>
+The STF Turns can be either a letter or bits of a number.
+</li><li>
+This standard form must be processed correctly, 
+"ascii" is a set of numbers 0..9a..zA..Z_- distinct from STF 'a': %%. '.' is not a number.
+</li><li>
+Turns inside the Context .():
+</li><li>
+@(pet'toys'3<b>.(size)</b>@house.mysite.tld)
+</li></ul>
+<h2>
+@(@)(@(@)(Associated Reference))
+</h2>
+<ul><li>
+Any Concept in any Context can be associated to any Concept in any Context by any Concept! (...)
+</li><li>
+@(pet@house.mysite.tld)(<i>@(pet'toys'3@house.mysite.tld)(<b>likes</b>)</i>)
+</li><li>
+The Concept of Association can also have a structured type:
+</li><li>
+@(pet@house.mysite.tld)(@(pet'toys'3@house.mysite.tld)(<b>*(@(pet'thoughts'likes@house.mysite.tld))</b>))
+</li><li>
+Providing the Concepts of Association between any Information in any Context anywhere!
+</li><li>
+@(pet'toys'5th@house.mysite.tld)(@(pet'toys'3@house.mysite.tld)(isBigger))
+</li><li>
+or specifically to any Concept inside the Context referenced by Turns:
+</li><li>
+@(pet'toys'5th<b>.(size)</b>@house.mysite.tld)(@(pet'toys'3<b>.(size)</b>@house.mysite.tld)(*(@(pet'thoughts'sizes<b>.(bigger)</b>@house.mysite.tld))))
+</li><li>
+The Associated Reference also has a standard that includes some very simple information about the Associative Concept.
+</li></ul>
+<h2>
+@(@)((In'Context'Turns)(Information))
+</h2>
+<ul><li>
+Information is referenced by Turns in Slots. Information referenced by Turns is in Slots.
+</li><li>
+There can be any kind of Information in Slots including STF Contexts and References!
+</li><li>
+(index)((turn'index'turn)(value))
+</li><li>
+(index)((turn'index'turn)(value)'(other'turn)((more'turns)(@(ref'3r'enCeD'C0ntext)(same))))
+</li></ul>
+<!--
+<h2>
+
+</h2>
+<ul><li>
+
+</li><li>
+
+</li></ul>
+<h2>
+
+</h2>
+<ul><li>
+
+</li><li>
+
+</li></ul>
+-->
+
+
+</td></tr></table>
+
+<p>
+
+<a name="stf*"/><a name="stf8"/>
+<table border=10% width=100%><tr><td>
+<h1>
+STF Standard: STF* & STF8
+</h1>
+<ul><li>
+STF Standard Text Format 
+</li><li>
+Single pattern optimised for STF8.
+</li></ul>
+</td></tr><tr><td>
+<h1>
+1 : Expander
+</h1>
+STF Books of Indexed Symbols are packed in Expanders. The STF8 index value is packed in an Alignment Expander and some Continuing Expander Blocks.
+<ul><li>
+STF Books include all Character Symbols, Formatting, Layout & Control, Phonemes & Graphemes, 2D 3D & 4D Means of Representation, Gestures and Vocalizations, and 5D Tooling, Logic, Infrastructures & Implementations...
+</li><li>
+<small>STF includes all of UTF, GB18030, UCS, etc in one STF Book. All UTF + "ascii" are expanded in STF Book #0.</small>
+</li></ul>
+<h2>
+11 : Expander Alignment & Iterator
+</h2>
+Bit Iterator of number of Continuing Expanders, plus some STF index value bits.
+<h3>
+STF8: 11 : 0xxxxx or 10xxxx to 111110 or 111111
+</h3>
+<ul><li>
+This Alignment Expander + One Block of Continuing Expander Bits per Indicated Iterator.
+</li><li>
+This 1 + 10 to 1111110 or 1111111 (Count 1 to 8 total) Blocks of Expander bits, then a 0 and bits. Remaining x bits: leading bits of STF index value. 
+</li></ul>
+<h3>
+STF*: 11 : 0x or 10x to 1N0x or high filled to scope
+</h3>
+<ul><li>
+This Alignment Expander + One Block of Continuing Expander Bits per Indicated Iterator.
+</li><li>
+This Expander + N Blocks of Continuing Expander Bits in Arbitrary STF* Expander, then a 0 (or high bit filled scope of Block) and bits. Remaining x bits: leading bits of STF index value.
+</li></ul>
+<h2>
+10 :  <i>Single Value Expander</i> or Continuing Expander's Bits
+</h2>
+A simple STF index value in 10:, or part of a continuing sequence with an Alignment Expander.
+<h3>
+STF8: 10 : xxxxxx : Six Expander Bits 
+</h3>
+<ul><li>The [0i..5i] bits of the Expander
+<!--
+<small>***No 10xxxxxx Singles in STF8***</small>
+-->
+</li></ul>
+<h3>
+STF*: 10 : xxxxxx_______x : Arbitrary Expander Bits or <b>Single Value</b>
+</h3>
+<ul><li>
+<b>Single Value when not included in an Alignment Expander's Continuing Sequence</b>.
+</li><li>
+Continuing Sequence of Expander's Bits packed in ( scope - 2 bit: 10 ) Blocks to Alignment Expander's Iterations.
+</li><li>
+</li></ul>
+</td></tr><tr><td>
+<h1>
+01 : STF Control Symbol
+</h1>
+<h2>
+01: 1 : STF WRAP
+</h2>
+Wraps of Information, Slots & Turns with named indexes, STF Context References, everything in STF Books...
+<h3>
+01: 1 : 1 : WRAP ON
+</h3>
+<h3>
+01: 1 : 0 : WRAP OFF
+</h3>
+It's A WRAP!
+<ul><li>
+STF Wraps include Symbols in STF Books and Modifier Values, Collections of Bits, Complexities of more Wraps included inside! Named and Indexed Turns & Sets in Slots, Parts & Wholes, References, and the STF Associative Reference!
+</li><li>
+see <a href="#wrap">STF Wraps</a>
+</li></ul>
+<h2>
+01 : 0 : STF Inclusions
+</h2>
+STF Inclusions and Technical Inclusions provide all the data + Information needed in the standard.
+<h3>
+01: 0 : 1 : Connectedness ON
+</h3>
+<h3>
+01: 0 : 0 : Connectedness OFF
+</h3>
+Connected Technical Inclusion or Connected Infrastructures
+<ul>
+<li>
+Technical Inclusions with LINEs of Bits & Infrastructures.
+</li><li>
+see <a href="#incl">STF Inclusions</a>
+</li></ul>
+</td></tr><tr><td>
+<h1>
+00 : Packed Bits
+</h1>
+<h2>
+00 : xxxxxx... : Collection of Bits
+</h2>
+<h3>
+STF8: 00 : xxxxxx : Six Packed Bits
+</h3>
+<h3>
+STF*: 00 : xxxxxx_______x : Arbitrary Packed Bits
+</h3>
+( scope - 2 bit: 00 ) + ___ bits. Similar to 10: single index value.
+</td></tr><tr><td>
+<small>
+<ul><li>
+All bits are Leading highest first "msb" or "network order".
+</li><li>
+Expanders can be packed to tightest or a specific size of block sequences.
+</li><li>
+Wrap includes a "page" indicator, the entire Wrap can be in one STF Book & Page prefix.
+</li><li>
+No bits not in this.
+</li><li>
+</li></ul>
+</small>
+</td></tr></table>
+
+<p>
+
+<a name="complete"/>
+<table border=10% width=100%><tr><td>
+<h1>
+Substantiable Completeness:
+</h1>
+<ul><li>
+<b>Phase 0:</b> Correct all Texts and Informations from "ascii" & "UTF" to STF8 Standard, build STF Community Graph of Characters & Symbols. Collate, prepare STF Books!
+</li><li>
+<b>Phase 1:</b> Solve Arrangement of Collections of Symbols by Associative Graph, Align Symbols in Pages of Books with STF index value.
+</li><li>
+<b>Phase 3:</b> Formalise STF16, STF32 & STF* Tree from aligned STF Symbols.
+</li><li>
+<b>Phase 4:</b> Functional Completeness!
+</li></ul>
+</td></tr></table>
+
+<p>
+
+
+
+
+
+
+
+
+
+<a name="impl"/>
+<table border=10% width=100%><tr><td>
+<h1>
+Get & Set Bits: STF Implementations
+</h1>
+<ul><li>
+STF Implementation does exactly one thing, the Get & Set of Bits in LINEs.
+</li></ul>
+
+<h2>
+Offsets of Bits, Containers, Collections & Spreads, Low & High Align
+</h2>
+<ul><li>
+The minimal function is the Get & Set of Bits in Containers.
+</li><li>
+The first to last is index offset of range of bits in the container.
+</li><li>
+</li></ul>
+
+<h3>
+Offsets of Bits, Range of Indexes
+</h3>
+<ul><li>
+The minimal function is the Get & Set of Bits in Containers.
+</li><li>
+In a container, the bits are in LINE.
+</li><li>
+STF minimal infrastructure Gets a bit in Line and Sets a bit in Line.
+</li><li>
+The range of bits can be any end to end length an is sometimes called "copy" bits.
+</li></ul>
+<h3>
+Bits in Containers
+</h3>
+<ul><li>
+Bits in LINEs are in containers of the same size or bigger and the offset can be referenced by index multiples as Declared Collections of Bits.
+</li><li>
+</li></ul>
+
+<h3>
+Bits in Wraps, Turns & Slots, Collections of Bits & Collections
+</h3>
+<ul><li>
+Wraps of bits, in LINEs in containers, can be referenced by their index in Turns or Slots of the tree.
+</li><li>
+Collections of Bits can be Declared as a bit, count of multiple Bits, and multiples of multiples by Declaring them in Wraps.
+</li><li>
+Structured collections of bits are referenced by Turns or Slots in tree.
+</li><li>
+Bits can be Get or Set by an index of container, mask of the container, or range of patterns of structure of bits in collections or collections of collections.
+</li><li>
+A mask to select the bits or the named or indexed Turns and Slots can be included, it is collections of bits or collections of collections.
+</li><li>
+Can to select the high (leading) or low aligned in Get or Set to container in LINE.
+</li><li>
+Collections of bits can be spread into arbitrary size containers, such as the high bit of colors or the leading bits of a field by Declaring the Collection of Collections that include Bits or Containers, then indicating the Slot or index they go in.
+</li><li>
+Spreading ranges of Collections of colors from a bit each to the high bit in color channels.
+</li><li>
+</li><li>
+</li><li>
+</li><li>
+</li><li>
+
+</li></ul>
+<h2>
+LINE & BANK, Hot Lines & "Cache"
+</h2>
+<ul><li>
+LINEs of Bits 
+</li><li>
+</li><li>
+And some requests for the Infrastructure to check the currency of the STFs in the Bank.
+</li><li>
+</li></ul>
+
+<h2>
+STF CUBE & BALL
+</h2>
+<ul><li>
+A "cube" is provided for the Accurate Representation. A 2D cube can has indicators of color. Cubes go in cubes, where you put stuff like letters. Ball is how stuff outside is related. Implementation provides cube. Cube can flow.
+</li></ul>
+
+<h2>
+STF FLOW
+</h2>
+<ul><li>
+FLOW is a very simple set of references in SLOTs that match the named or indexed Slot with turns. 
+</li><li>
+have matching ("named") conditions. Each variate 
+</li><li>
+Each has a reference to another flow. Declared Collections, Bits, and Wraps included.
+</li><li>
+</li><li>
+FLOW can have very simple cycles. Using a test condition and Get & Set Bits provides all logic and process flow to your Collection of Bits.
+</li></ul>
+
+<h2>
+Table Basher "true"
+</h2>
+<ul><li>
+STF provides a minimal collection of true, with some index values in slots and turns that go with Get Set Bits and flow.
+</li><li>
+Tree bits in elementary table
+</li><li>
+Use to build Collections of Bits like ADD with values 0 to 9 in 4 bits, etc.
+</li></ul>
+
+
+<h2>
+Augmented Infrastructures
+</h2>
+<ul><li>
+Implementations can make available other LINEs or FLOWs, like pixels or communication lines, and provide valid specific functions like add-cary of a fixed bit scope to Set Bits. 
+</li></ul>
+<h2>
+Inviolable
+</h2>
+<ul><li>
+STF Declares only one way to Get & Set Bits. It is impossible to do anything else.
+</li></ul>
+</td></tr></table>
+
+<p>
+
+<a name="one"/>
+<table border=10% width=100%><tr><td>
+<h1>
+
+</h1>
+<ul><li>
+</li></ul>
+</td></tr></table>
+
+
+
+<p>
+
+<a name="one"/>
+<table border=10% width=100%><tr><td>
+<h1>
+
+</h1>
+<ul><li>
+</li></ul>
+</td></tr></table>
+
+<p>
+
+<a name="one"/>
+<table border=10% width=100%><tr><td>
+<h1>
+
+</h1>
+<ul><li>
+</li></ul>
+</td></tr></table>
+
+<p>
+
+<a name="wrap"/>
+<table border=10% width=100%><tr><td>
+<h1>
+STF WRAP: It's a Wrap!
+</h1>
+<ul><li>
+</li></ul>
+</td></tr></table>
+
+<p>
+
+<a name="incl"/>
+<table border=10% width=100%><tr><td>
+<h1>
+STF Inclusions: Technical Inclusions
+</h1>
+<ul><li>
+</li></ul>
+
+<!-- STF8: c0 & c1 in STF Book #0 are used to indicate 0x00. -->
+</td></tr></table>
+
+<p>
+Outdated <a href="index2.html">index2.html</a>
+</body>
+</html>
+STF: Standard Text Format
+
