@@ -59,7 +59,7 @@ STF is Effective
 <ul><li>
 STF is the most effective Means of Representation of all kinds of information. 
 </li><li>
-Standard Text Format consolidates into Books of STF Symbols for use in text + Refinement Bits
+STF: Standard Text Format consolidates into Books of STF Symbols and Refinements for use in any Text or Presentation.
 </li></ul>
 <h2>
 STF is Easy to Comprehend
@@ -94,18 +94,18 @@ Efficient!
 <h2>
 STF uses Bits Effectively
 </h2>
-<ul><li>
+
 In STF: Standard Text Format, 
-</li><li>
-The first bit high indicates it's a STF Book Symbol.
+<ul><li>
+The first bit high indicates it's a <a href="#book">STF Book</a> Symbol.
 </li><li>
 The second bit low indicates it's Bits.
 </li><li>
-If the first two bits are high then high, it's the Alignment Expander for the STF Symbol.
+If the first two bits are high then high, it's the<a href="#align"> Alignment Expander</a> for the STF Symbol.
 </li><li>
-If the first two bits are low then low, it's a Collection of Bits.
+If the first two bits are low then low, it's a<a href="#six"> Collection of Bits</a>.
 </li><li>
-The most important part of STF; if the first two bits are low then high, it's a STF WRAP!
+The most important part of STF; if the first two bits are low then high, it's a <a href="#wrap">STF WRAP!</a>
 </li></ul>
 </td></tr></table>
 
@@ -132,6 +132,89 @@ Specific Bits in the STF Standard
 </li></ul>
 </li></ul>
 </td></tr></table>
+
+
+<p>
+
+<a name="accurate"/>
+<table border=10% width=100%><tr><td>
+<h1>
+Accurate Representation
+</h1>
+<ul><li>
+Accurate Representation is critical in the presentation of Information. STF: Standard Text Format includes everything necessary to guarantee that your concepts and presentations are accurately represented!
+</li></ul>
+<h2>
+CUBE & BALL
+</h2>
+<ul><li>
+Every Context is provided a CUBE for its Accurate Representation. Be it a single glyph or grapheme symbol or an entire composition, each Context has a CUBE for Accurate Representation of its information.
+</li><li>
+Inter-association of Concepts or information is by STF Associated References. References can include the Concept of Association and can be inside the CUBE, in the CUBE's BALL, or from the Context's BALL to other STF Universal Contexts.
+</li><li>
+STF Contexts can be included by reference inside the Context's CUBE or referenced in the Context's CUBE's BALL.
+</li><li>
+STF Associated References from outside a Context are kept in the Context's BALL.
+</li></ul>
+<h2>
+Associated Contexts
+</h2>
+<ul><li>
+References to other Concepts in any Context use a STF Associated Reference, either in the local Context or Universal Context.
+</li><li>
+Concepts can be Associated to Concepts by Concepts in any STF Context.
+</li></ul>
+</td></tr></table>
+
+<p>
+
+<a name="complete"/>
+<table border=10% width=100%><tr><td>
+<h1>
+Substantiable Completeness:
+</h1>
+<ul><li>
+<b> STF's Books of Symbols + Refinements</b> provide indexed Standards for the complete representation of all forms of knowledge and information including simple glyphs & graphemes, toolings and formats, vocalizations & phonemes, gestures & presentations, logic & representation, ... All in this STF: STANDARD TEXT FORMAT.
+</li></ul>
+<h2>
+Formal Completeness:
+</h2>
+<ul><li>
+Formal Completeness means that all possible associations between concepts are exhaustively known. It is impossible to know all concepts of concepts without knowing them, therefore Substantiable Completeness determines how Information is organised into STF Books of Collections of similarly themed STF Symbols in STF: STANDARD TEXT FORMAT.
+</li><li>
+STF Symbols are arranged in Collections by similar theme in STF Standard Books, collated from the Community's Graph.
+</li><li>
+All possible Means of Representation and the STF Symbols and Refinements are derived from the unified STF Community Graph.
+</li></ul>
+<h2>
+Process of Formalisation:
+</h2>
+<ul><li>
+Community Graph! Collation!
+</li><li>
+ STF Standard Enhancements are provided each quarter year on the Seasons and intermediate enhancements are posted on the phases of the moon.
+</li></ul>
+
+<h3>
+Sequence of Completeness:
+</h3>
+<ul><li>
+Currently all forms of the STF Standard can be used for any Text or Representation, the only requirement is an Implementation. <a href="#impl">STF Standard Implementation</a> (with enhancements)
+</li><li>
+<ul><li>
+<b>Phase 0:</b> Correct all Texts and Informations from "ascii" & "UTF" to STF8 Standard, build STF Community Graph of Characters & Symbols. Collate, prepare STF Books!
+</li><li>
+<b>Phase 1:</b> Solve Arrangement of Collections of Symbols by Associative Graph, Align Symbols in Pages of Books with STF index value.
+</li><li>
+<b>Phase 3:</b> Formalise STF16, STF32 & STF* Tree from aligned STF Symbols.
+</li><li>
+<b>Phase 4:</b> Functional Completeness!
+</li></ul>
+</li></ul>
+</td></tr></table>
+
+
+
 
 <p>
 
@@ -434,23 +517,6 @@ No bits not in this.
 </small>
 </td></tr></table>
 
-<p>
-
-<a name="complete"/>
-<table border=10% width=100%><tr><td>
-<h1>
-Substantiable Completeness:
-</h1>
-<ul><li>
-<b>Phase 0:</b> Correct all Texts and Informations from "ascii" & "UTF" to STF8 Standard, build STF Community Graph of Characters & Symbols. Collate, prepare STF Books!
-</li><li>
-<b>Phase 1:</b> Solve Arrangement of Collections of Symbols by Associative Graph, Align Symbols in Pages of Books with STF index value.
-</li><li>
-<b>Phase 3:</b> Formalise STF16, STF32 & STF* Tree from aligned STF Symbols.
-</li><li>
-<b>Phase 4:</b> Functional Completeness!
-</li></ul>
-</td></tr></table>
 
 <p>
 
@@ -469,6 +535,10 @@ Get & Set Bits: STF Implementations
 </h1>
 <ul><li>
 STF Implementation does exactly one thing, the Get & Set of Bits in LINEs.
+</li><li>
+The STF Standard Implementation provides the Context's CUBE and BALL and some infrastructures.
+</li><li>
+Implementations can include things like pixels on screens or other Augmented Implementations.
 </li></ul>
 
 <h2>
