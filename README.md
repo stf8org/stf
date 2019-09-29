@@ -81,9 +81,9 @@ STF Standard is the most simple way to correctly hold all information.
 </li><li>
 Some Bits:
 <ul><li>
-STF Books of Symbols, Expander Bits
+STF Books of Symbols, Expander Bits, Refinement Symbols
 </li><li>
-STF Wraps
+STF Wraps & Inclusions
 </li><li>
 Packed Bits & Refinement Bits
 </li></ul>
@@ -202,7 +202,7 @@ Sequence of Completeness:
 Currently all forms of the STF Standard can be used for any Text or Representation, the only requirement is an Implementation. <a href="#impl">STF Standard Implementation</a> (with enhancements)
 </li><li>
 <ul><li>
-<b>Phase 0:</b> Correct all Texts and Informations from "ascii" & "UTF" to STF8 Standard, build STF Community Graph of Characters & Symbols. Collate, prepare STF Books!
+<b>Phase 0:</b> Correct all Texts and Informations from "ascii" & "UTF"|"UCS" to STF8 Standard, build STF Community Graph of Characters & Symbols. Collate, prepare STF Books!
 </li><li>
 <b>Phase 1:</b> Solve Arrangement of Collections of Symbols by Associative Graph, Align Symbols in Pages of Books with STF index value.
 </li><li>
@@ -314,7 +314,7 @@ The @host.tld is the DNS.
 </li><li>
 The pet'toys'3 is the Context Turns, each separated by an "air comma" ''' like a lamp-post or street-sign.
 </li><li>
-Because HTTP & IRI can't handle letters correctly, STF0 is packed using %- "percent-encoding" of STF (& "UTF") characters.
+Because HTTP & IRI can't handle letters correctly, STF0 is packed using %- "percent-encoding" of STF (& "UTF-8") characters.
 </li><li>
 The unique Context is held in a single record or file of the same "file name" IRI.
 </li><li>
@@ -379,8 +379,199 @@ There can be any kind of Information in Slots including STF Contexts and Referen
 
 </li></ul>
 -->
+<h1>
+STF0: STF THROUGH Antiquated HTTP & IRI's
+</h1>
+<ul><li>
+STF Banks use parallel matching of the structure of Turns, populating the empty Slots.
+</li><li>
+STF0 simply puts all the records in a CUBE @(@) or BALL @(@)() record, such as a file.
+</li><li>
+STF0 is easy to handle, References and Associatives are simply appended to the BALL "file", and the STF Context CUBE is appended as well!
+</li></ul>
+<h2>
+STF0 
+</h2>
+<ul><li>
+The STF Context's data is in @(mY'Context'4@host.tld) and is a collection of lines with Turns and Slots and Information.
+</li><li>
+@(mY'Context'4@host.tld)
+</li><li>
+The Context can have its Associated References inside as well, @(you@your.tld)(saw) throughout the Text.
+</li><li>
+References from outside the Context all go in the BALL "file" @(@)()
+</li><li>
+@(mY'Context'4@host.tld)<b>()</b>
+</li><li>
+The STF Implementation will typically GET the Context "file", check if there is a ~() infrastructure indicator like ~(next)(@(@)) and then prioritise getting that next in sequence or everyone's references that are in @(@)() the BALL.
+</li><li>
+Time Slices can be used in both the Context's re-vision (it is always better to make another new one so you can keep all the variations) and in spreading Associative References across bins in time.
+</li><li>
+When a @(@)() BALL "file" is split in times, it keeps a reference ~(next)(@(@)()) in each, and puts a ~() reference to it in @(@)(). ~(prev), ~(part) & ~(chop) 
+</li><li>
+These ~() infrastructure symbols match STF8 and are four-letter-NUMBERS!
+</li><li>
+All of the Context data goes in one record, all of the Associative References are appended in the other!
+</li></ul>
+
+<h2>
+STF0 HOST "Infrastructure"
+</h2>
+<ul><li>
+All STF0 requires is the append a record or file, access by "name", and provide time & size info (like HTTP HEAD).
+</li><li>
+STF0 can be single packets or a structured transport like HTTP (HTTP may or may not work correctly.)
+</li><li>
+The correct implementation is STF0 @(@) or @(@)() references.
+</li></ul>
+
+<h2>
+STF0 via HTTP
+</h2>
+<ul><li>
+HTTP is not preferable, but 
+STF0 via HTTP prefers 
+</li><li>
+GET @(@) and @(@)() "files" by "name"
+Associative References are posted by including it @(x@x)(@(my'ref@my.tld)(connects)), and the host appends that line in the BALL "file" @(x@x)() but the response will be the confirmation of the line or a 'FAILCHOPPOSTLINE' indicating it should use HTTP POST ?LINE= because the HTTP server cut off the line erroneously. If the host does not include the Associative References locally, it can say TELL@(@otherhost.tld) and the STF Implementation should tell it there instead. (same as ~(tell)(@(@)) Declared in the Context. (multiple'tells))
+</li><li>
+The HTTP service should allow HEAD,GET,POST,RESUME functions, HEAD and RESUME get new increments of the file, GET should automatically transfer the request to append the Associated Reference if the file does not exist (.htaccess), and POST compensates for design flaws of HTTP (request length) or when the script is not automatic.
+</li></ul>
+
+<h2>
+STF0 via HTTP Parts
+</h2>
+<ul><li>
+It is preferable that you use your own custom server that handles packets and bits correctly, otherwise you can use something like these examples for common HTTP "server"
+</li><li>
+Minimal validation of STF0 References tests if the  ()'s are matched, then selects if you want extra sub-context Turns separated (for large texts in one STF) or everything in one @(@)(), then checks if the Context actually exists, and puts the Reference in the matching BALL "file" @(@)() with append and a \n. 
+</li><li>
+Appending lines into your context should require some form of auth. References must be appended.
+</li><li>
+Associated References are simply posted in their full form, the infrastructure needs to append them into the correct "file".
+</li><li>
+
+</li></ul>
+
+<h3>
+STF0 via HTTP .htaccess
+</h3>
+<ul><li>
+Redirecting the Associative Reference into the BALL "file" using common ".htaccess" and HTTP GET
+</li><li>
+.htaccess<br>
+<small><pre>
+&lt;ifmodule mod_rewrite.c&gt;
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . ./stf0.php
+&lt;/ifmodule&gt;
+</pre></small>
+</li><li>
+The result is GET /@(My'con'tExt@my.host.tld)(@(their'c0ntext@their.tld)(the'associative))
+</li></ul>
+
+<h3>
+STF0 via HTTP stf0.php
+</h3>
+<ul><li>
+The minimal functions of the STF0 service are to take the GET and POST and send the record "file". 
+</li><li>
+If the file exists, HTTP GET should have sent it.
+</li><li>
+You can put the data somewhere else, as long as the append is correct and changed time & size are told correctly. the GET /@(@host.tld) or GET /@(@) should indicate if your infrastructure implementation uses some other interface (including ~(tell)(@(@http://other.host.tld/fail.php?trystfo=)) where the "http:" is properly %%'d
+</li><li>
+Here's the simple PHP that might work.
+</li><li>
+stf0.php<br>
+<small><pre>
+&lt;?php
 
 
+$PutEverythingInOneFile = 0;
+$UseSubContextBALLs = 0;
+$UseBALLs = 1;
+$SplitBallOnTime = 0;
+$auth = "true"; // ...?
+
+// The HTTP and "Web Browser" have a lot of problems.
+header("Access-Control-Allow-Origin: *");
+header("stf: 0");
+
+// First, recover the @(@)() from the HTTP server.
+
+$request_uri = explode('/', trim($_SERVER['REQUEST_URI'], '/'));
+$script_name = explode('/', trim($_SERVER['SCRIPT_NAME'], '/'));
+$parts = array_diff_assoc($request_uri, $script_name);
+
+if (empty($parts)) {
+// / send html body onload("@(@)" or a Context of your preference + script or 403
+echo '...';
+exit();
+}
+
+$path = implode('/', $parts); 
+
+// Check if there is a ? 
+
+if (($position = strpos($path, '?')) !== FALSE)
+{ 
+$path = substr($path, 0, $position);
+$q =  substr($path,$position,strlen($path));//?
+
+// $q is the ?=, extract auth + new file name and append content, or extract long line
+
+// $line =
+
+}
+
+$line = $path;
+
+// $line is the @(@)(@(@)()) Associated Reference
+
+// Make sure it starts correctly.
+if ( ($line[0] == '@') || ($line[0] == '!') )
+{
+
+// Test if it's actually a @(@)(@(@)()) (with times)
+
+if ( ($line[1] == '(') || ($line[5] == '(') || ($line[7] == '(') )
+{
+
+// Minimal Validate matching ()'s by counting
+// Extract the Context "file name" including %%s
+// Put the STF0 in the BALL file ().
+// option of \n\n\n for fast alignment.
+// if the @(@)() is chopped up by HTTP  FAILCHOPPOSTLINE.
+
+// very wrong ;)
+$f = substr($line, 0, strpos($line, ')')) . ")()";
+
+// if (PutEverythingInOneFile)
+// $f = "@(@)()";
+
+$fh = fopen($f,'a') or die("stfu");
+fwrite($fh, "\n" . $line . "\n");
+fclose($fh);
+
+echo $f . "\n"; 
+
+}// @time(
+}// @
+
+ exit();
+
+?&gt;
+
+</pre></small>
+</li><li>
+</li></ul>
+
+...
+</li><li>
+</li><li>
+</li></ul>
 </td></tr></table>
 
 <p>
@@ -408,7 +599,9 @@ STF Books of Indexed Symbols are packed in Expanders. The STF8 index value is pa
 <ul><li>
 STF Books include all Character Symbols, Formatting, Layout & Control, Phonemes & Graphemes, 2D 3D & 4D Means of Representation, Gestures and Vocalizations, and 5D Tooling, Logic, Infrastructures & Implementations...
 </li><li>
-<small>STF includes all of UTF, GB18030, UCS, etc in one STF Book. All UTF + "ascii" are expanded in STF Book #0.</small>
+STF Symbols can be followed by a Refinement, either a Collection of Bits or an Inclusion Wrap or STF Refinement Symbol that has additional specifics. Larger "dictionary" refinements on sequences of symbols is the same as an Inclusion of the named/index Turns in the Concept's Declaration.
+</li><li>
+<small>STF includes all of UCS, "UTF-8", GB18030, UCS, etc in one STF Book. All UTF + "ascii" are expanded in STF Book #0.</small>
 </li></ul>
 <h2>
 11 : Expander Alignment & Iterator
