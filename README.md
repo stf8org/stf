@@ -36,9 +36,9 @@ Implementation is simple, it's a WRAP!
 </li><li>
 Bits: (Leading High)
 <ul><li>
-11: Alignment Expander for Symbols
+11: Alignment Expander for STF Symbols
 </li><li>
-10: Symbols and Expander's Bits
+10: STF Symbols and Expander's Bits
 </li><li>
 01: Wraps, CUBEs, Balls, References
 </li><li>
@@ -65,17 +65,9 @@ The <b>STUFFER</b> that stuffs stuff.
 </li></ul>
 We don't know if It's either 01: {ON , OFF}{STF BOOK , Infrastructures:}{Your Wrap or Cube , Connected Inclusion} or 01: {CUBE , Inclusion}{ON , OFF}{STF BOOK , Infrastructure:} because on|off-book-?bbb matches bits but Cube|Inclusion-on|off-book-bbb is faster. 
 <ul><li>
-01:1: Stuff!
+01:1: Stuff! Your Text, Wrap or Cube
 </li><li>
 01:0: Connected Inclusion
-</li><li>
-01:1: Wrap ON!
-</li><li>
-01:0: Wrap OFF!
-</li><li>
-01:x1: STF BOOK
-</li><li>
-01:x0: Infrastructures
 </li><li>
 01:x1: Wrap ON!
 </li><li>
@@ -85,12 +77,63 @@ We don't know if It's either 01: {ON , OFF}{STF BOOK , Infrastructures:}{Your Wr
 </li><li>
 01:xx:0 Infrastructure
 </li><li>
+or
+</li><li>
+01:1: Wrap ON!
+</li><li>
+01:0: Wrap OFF!
+</li><li>
+01:x1: STF BOOK
+</li><li>
+01:x0: Infrastructures
+</li><li>
+or
+</li><li>
+01:1: Wrap ON!
+</li><li>
+01:0: Wrap OFF!
+</li><li>
+01:x1: Stuff! Your Text, Wrap or Cube
+</li><li>
+01:x0: Connected Inclusion
+</li><li>
+01:xx:1 STF BOOK with Standard Symbols
+</li><li>
+01:xx:0 Infrastructure
+</li><li>
+or
+</li><li>
+01:1: Wrap ON!
+</li><li>
+01:0: Wrap OFF!
+</li><li>
+01:x1: STF BOOK
+</li><li>
+01:x0: Infrastructures
+</li><li>
+01:xx:1 Text Wrap or Cube
+</li><li>
 01:xx:0 Connected Inclusion
 </li><li>
+...
 </li><li>
-
+Infrastructure WRAPs:
 <ul><li>
+111: Import Context Reference
 </li><li>
+110: Associative Reference
+</li><li>
+101: Slots & Holes
+</li><li>
+100: Turns & Parts
+</li><li>
+011: Your CUBE, Inclusion's BALL
+</li><li>
+010: Your WRAP, Inclusion's CUBE
+</li><li>
+001: , STUFFER
+</li><li>
+000: Stuff (adjacent)
 </li><li>
 </li><li>
 </li><li>
