@@ -5,6 +5,106 @@
 </title>
 </head>
 <body>
+<font size=+2 color=royalblue>Two Bits, Two-Bit!</font>
+
+<p>
+<a name="two" />
+<table border=10% width=100%><tr><td>
+<font size="80%" color=#f7f >STF: Standard Text Format.</font>
+
+<h1>
+STF: Standard Text Format
+</h1>
+<ul><li>
+STF is the most effective Means of Representation of all kinds of information. 
+</li><li>
+STF is the most simple, <b>effective</b>, and easy to comprehend way to accurately represent all knowledge and understanding!
+</li><li>
+STF Books of Symbols contain everything imaginable and you can make your own to represent anything inside!
+</li><li>
+Concepts are connected by Associative References 
+</li><li>
+STF: Standard Text Format has your TEXT as Symbols in STF BOOKs with WRAPs and two simple things, a CUBE and a BALL, represented by Bits!
+</li><li>
+Everything gets a cube with a ball.
+</li><li>
+The CUBE has everything you need to accurately represent your concept, even the simple ones like symbols, graphemes, glyphs, and writing!
+</li><li>
+The BALL has everything you need to represent inter-associations of concepts, anywhere!
+</li><li>
+Implementation is simple, it's a WRAP!
+</li><li>
+Bits: (Leading High)
+<ul><li>
+11: Alignment Expander for Symbols
+</li><li>
+10: Symbols and Expander's Bits
+</li><li>
+01: Wraps, CUBEs, Balls, References
+</li><li>
+00: Bits
+</li><li>
+
+</li></ul>
+</li><li>
+The Wraps have Stuff. 
+<ul><li>
+STF WRAP Symbols in STF BOOKs
+</li><li>
+ON or OFF, Start and end of wrap.
+</li><li>
+Your WRAPs or CUBEs and their Connected Inclusions
+</li><li>
+Associated References, included or referenced by concepts
+</li><li>
+Turns & Slots, Parts & Holes
+</li><li>
+A CUBE & BALL for representation
+</li><li>
+The <b>STUFFER</b> that stuffs stuff.
+</li></ul>
+We don't know if It's either 01: {ON , OFF}{STF BOOK , Infrastructures:}{Your Wrap or Cube , Connected Inclusion} or 01: {CUBE , Inclusion}{ON , OFF}{STF BOOK , Infrastructure:} because on|off-book-?bbb matches bits but Cube|Inclusion-on|off-book-bbb is faster. 
+<ul><li>
+01:1: Stuff!
+</li><li>
+01:0: Connected Inclusion
+</li><li>
+01:1: Wrap ON!
+</li><li>
+01:0: Wrap OFF!
+</li><li>
+01:x1: STF BOOK
+</li><li>
+01:x0: Infrastructures
+</li><li>
+01:x1: Wrap ON!
+</li><li>
+01:x0: Wrap OFF!
+</li><li>
+01:xx:1 STF BOOK with Standard Symbols
+</li><li>
+01:xx:0 Infrastructure
+</li><li>
+01:xx:0 Connected Inclusion
+</li><li>
+</li><li>
+
+<ul><li>
+</li><li>
+</li><li>
+</li><li>
+</li><li>
+</li></ul>
+
+</li></ul>
+</li></ul>
+</td></tr></table>
+
+<p>
+
+<Hr>
+
+<p>
 <a name="STF" />
 <table border=10% width=100%><tr><td>
 <font size="80%" >STF</font>
@@ -65,6 +165,8 @@ STF: Standard Text Format consolidates into Books of STF Symbols and Refinements
 STF is Easy to Comprehend
 </h2>
 <ul><li>
+A CUBE AND A BALL!
+</li><li>
 Turns in one hand, Slots in the other.
 </li><li>
 Wraps like cupped hands.
@@ -83,7 +185,7 @@ Some Bits:
 <ul><li>
 STF Books of Symbols, Expander Bits, Refinement Symbols
 </li><li>
-STF Wraps & Inclusions
+STF Wraps, CUBEs, & Connected Inclusions
 </li><li>
 Packed Bits & Refinement Bits
 </li></ul>
@@ -124,11 +226,11 @@ Specific Bits in the STF Standard
 10: Single STF Symbol or Expander's Bits
 </li></ul>
 </li><li>
-0: STF Wraps or Bits
+0: STF Wraps & CUBEs or Bits
 <ul><li>
 01: STF Wraps!
 </li><li>
-00: STF Symbol Refinements or Collection of Bits!
+00: Bits! STF Symbol Refinements or Collection of Bits!
 </li></ul>
 </li></ul>
 </td></tr></table>
@@ -269,12 +371,14 @@ STF0: STF in Antiquated HTTP & IRI
 <ul><li>
 Only certain combinations of bits get through HTTP and IRI (URI, URL) correctly.
 </li><li>
-Except for Collections of Bits [0i..63i] and some strange symbols, STF0 uses %% "percent-encoding" of bytes.
+Except for Collections of Bits [0i..63i] and some strange symbols, STF0 uses 0123456789aAbBcC for each 3i bits or 
+<s>%% "percent-encoding" of bytes.</s>
 </li><li>
-American "ascii" #'0' is not even the correct value, and only 0..9a..zA..Z "letters" get through IRI (URI, URL) and HTTP. These specific sequences of bits are used (mapped) only for bits of the correct value.
+American "ascii" #'0' is not even the correct value, and only 0..9aA..zZ_- "letters" get through IRI (URI, URL) and HTTP. These specific sequences of bits are used (mapped) only for bits of the correct value.
 </li><li>
 STF0 uses these antiquated patterns of misordered symbols to represent a form of STF called STF0 that matches the STF Standard.
 </li><li>
+
 </li><li>
 <font color=red>
 STF encodes all characters and symbols in Expanders, letter 'a' is bits 11000001 10100001 or %c1%a1. 
@@ -314,14 +418,14 @@ The @host.tld is the DNS.
 </li><li>
 The pet'toys'3 is the Context Turns, each separated by an "air comma" ''' like a lamp-post or street-sign.
 </li><li>
-Because HTTP & IRI can't handle letters correctly, STF0 is packed using %- "percent-encoding" of STF (& "UTF-8") characters.
+Because HTTP & IRI can't handle letters correctly, STF0 is packed using 4-bit 0123456789aAbBcC_- <s>%- "percent-encoding"</s> of STF (& "UTF-8") characters.
 </li><li>
 The unique Context is held in a single record or file of the same "file name" IRI.
 </li><li>
 The STF Turns can be either a letter or bits of a number.
 </li><li>
 This standard form must be processed correctly, 
-"ascii" is a set of numbers 0..9a..zA..Z_- distinct from STF 'a': %%. '.' is not a number.
+"ascii" is a set of numbers 0..9aA..zZ_- distinct from STF 'a': . '.' is not a number.
 </li><li>
 Turns inside the Context .():
 </li><li>
@@ -898,6 +1002,8 @@ STF Inclusions: Technical Inclusions
 </td></tr></table>
 
 <p>
+The Prior draft of this text: <a href="index1.html">index1.html</a>
+<Br>
 Outdated <a href="index2.html">index2.html</a>
 </body>
 </html>
