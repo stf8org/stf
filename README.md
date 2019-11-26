@@ -15,8 +15,10 @@
 <h1>
 STF: Standard Text Format
 </h1>
-<ul><li>
+<h2>
 STF is the most effective Means of Representation of all kinds of information. 
+</h2>
+<ul><li>
 </li><li>
 STF is the most simple, <b>effective</b>, and easy to comprehend way to accurately represent all knowledge and understanding!
 </li><li>
@@ -40,20 +42,24 @@ Bits: (Leading High)
 </li><li>
 10: STF Symbols and Expander's Bits
 </li><li>
-01: Wraps, CUBEs, Balls, References
+01: Wraps, Named or Indexed Wraps, CUBEs, Balls, References, Accurate Representations
 </li><li>
 00: Bits
 </li><li>
 
 </li></ul>
-</li><li>
+</li></ul>
+</li></ul>
+
+<h3>
 The Wraps have Stuff. 
+</h3>
 <ul><li>
-STF WRAP Symbols in STF BOOKs
+STF Standard WRAP Symbols in STF BOOKs
 </li><li>
 ON or OFF, Start and end of wrap.
 </li><li>
-Your WRAPs or CUBEs and their Connected Inclusions
+Your WRAPs or CUBEs (or Symbols!) and their Connected Inclusions
 </li><li>
 Associated References, included or referenced by concepts
 </li><li>
@@ -63,20 +69,26 @@ A CUBE & BALL for representation
 </li><li>
 The <b>STUFFER</b> that stuffs stuff.
 </li></ul>
-We don't know if It's either 01: {ON , OFF}{STF BOOK , Infrastructures:}{Your Wrap or Cube , Connected Inclusion} or 01: {CUBE , Inclusion}{ON , OFF}{STF BOOK , Infrastructure:} because on|off-book-?bbb matches bits but Cube|Inclusion-on|off-book-bbb is faster. 
-<ul><li>
-01:1: Stuff! Your Text, Wrap or Cube
+
+<!--
+We don't know if It's either 01: {ON , OFF}{STF BOOK , Infrastructures:}{Your Wrap or Cube , Connected Inclusion} or 01: {CUBE , Inclusion}{ON , OFF}{STF BOOK , Infrastructure:} because on|off-book-?bbb matches bits but Cube|Inclusion-on|off-book-bbb is faster. Gain an Infrastructure bit by unstuffing the book to adjacent, gain some book bits and confusion into a tree, or wonder why the book has strange wraps not on|off. -->
+<H3>
+The Bits Inside:
+</H3>
+<ul><li><b>
+01:1: Stuff! Your Text, Wrap or Cube!
 </li><li>
-01:0: Connected Inclusion
+01:0: Connected Inclusion!!!
 </li><li>
-01:x1: Wrap ON!
+01:x1: Wrap or CUBE ON!
 </li><li>
-01:x0: Wrap OFF!
+01:x0: Wrap or CUBE OFF!
 </li><li>
-01:xx:1 STF BOOK with Standard Symbols
+01:xx:1 STF BOOK with Standard Symbols (or YOUR BOOK!)
 </li><li>
 01:xx:0 Infrastructure
-</li><li>
+</li><li></b>
+<!--
 or
 </li><li>
 01:1: Wrap ON!
@@ -102,40 +114,46 @@ or
 01:xx:0 Infrastructure
 </li><li>
 or
-</li><li>
+</li><li><b>
 01:1: Wrap ON!
 </li><li>
 01:0: Wrap OFF!
 </li><li>
 01:x1: STF BOOK
 </li><li>
-01:x0: Infrastructures
+01:x0: Infrastructures w/
 </li><li>
 01:xx:1 Text Wrap or Cube
 </li><li>
 01:xx:0 Connected Inclusion
-</li><li>
+</li><li></b>
 ...
+</li><li>
+01:1: STF BOOK (more bits)
+</li><li>
+01:0: Infrastructures
+</li><li>
+on,off?
+</li><li>
+... -->
 </li><li>
 Infrastructure WRAPs:
 <ul><li>
-111: Import Context Reference
+111: Import a Context Reference
 </li><li>
-110: Associative Reference
+110: Reference Anything + it's Associative Reference
 </li><li>
 101: Slots & Holes
 </li><li>
-100: Turns & Parts
+100: Turns & Parts (Named Indexes & Refinements!)
 </li><li>
-011: Your CUBE, Inclusion's BALL
+011: Your new CUBE, Inclusion's CUBE
 </li><li>
-010: Your WRAP, Inclusion's CUBE
+010: Your new WRAP, Inclusion's BALL
 </li><li>
-001: , STUFFER
+001: Accurate Representations, <b>STUFFER</b>
 </li><li>
-000: Stuff (adjacent)
-</li><li>
-</li><li>
+000: <b>Stuff</b>! (adjacent)
 </li><li>
 </li></ul>
 
@@ -146,6 +164,8 @@ Infrastructure WRAPs:
 <p>
 
 <Hr>
+
+<Small>
 
 <p>
 <a name="STF" />
@@ -1045,7 +1065,9 @@ STF Inclusions: Technical Inclusions
 </td></tr></table>
 
 <p>
-The Prior draft of this text: <a href="index1.html">index1.html</a>
+The Prior draft of this text: <a href="index0.html">index0.html</a>
+<Br>
+The prior Prior draft of this text: <a href="index1.html">index1.html</a>
 <Br>
 Outdated <a href="index2.html">index2.html</a>
 </body>
