@@ -35,8 +35,10 @@ The CUBE has everything you need to accurately represent your concept, even the 
 The BALL has everything you need to represent inter-associations of concepts, anywhere!
 </li><li>
 Implementation is simple, it's a WRAP!
-</li><li>
+</li></ul>
+<H2>
 Bits: (Leading High)
+</H2>
 <ul><li>
 11: Alignment Expander for STF Symbols
 </li><li>
@@ -45,10 +47,6 @@ Bits: (Leading High)
 01: Wraps, Named or Indexed Wraps, CUBEs, Balls, References, Accurate Representations
 </li><li>
 00: Bits
-</li><li>
-
-</li></ul>
-</li></ul>
 </li></ul>
 
 <h3>
