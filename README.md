@@ -22,11 +22,11 @@ STF is the most effective Means of Representation of all kinds of information.
 </li><li>
 STF is the most simple, <b>effective</b>, and easy to comprehend way to accurately represent all knowledge and understanding!
 </li><li>
-STF Books of Symbols contain everything imaginable and you can make your own to represent anything inside!
+<B>STF Books of Symbols</b> contain everything imaginable and you can make your own to represent anything inside!
 </li><li>
 Concepts are connected by Associative References 
 </li><li>
-STF: Standard Text Format has your TEXT as Symbols in STF BOOKs with WRAPs and two simple things, a CUBE and a BALL, represented by Bits!
+STF: Standard Text Format has your TEXT as Symbols in STF BOOKs with WRAPs and Refinements and two simple things, a CUBE and a BALL, represented by Bits!
 </li><li>
 Everything gets a cube with a ball.
 </li><li>
@@ -42,9 +42,9 @@ Bits: (Leading High)
 <ul><li>
 11: Alignment Expander for STF Symbols
 </li><li>
-10: STF Symbols and Expander's Bits
+10: STF Books of Symbols and Expander's Bits
 </li><li>
-01: Wraps, Named or Indexed Wraps, CUBEs, Balls, References, Accurate Representations
+01: Wraps, Named or Indexed Wraps, Symbol Refinements, CUBEs, Balls, References, Accurate Representations
 </li><li>
 00: Bits
 </li></ul>
@@ -57,7 +57,7 @@ STF Standard WRAP Symbols in STF BOOKs
 </li><li>
 ON or OFF, Start and end of wrap.
 </li><li>
-Your WRAPs or CUBEs (or Symbols!) and their Connected Inclusions
+Your WRAPs or CUBEs (or Symbols!), their Refinements, and their Connected Inclusions
 </li><li>
 Associated References, included or referenced by concepts
 </li><li>
@@ -74,17 +74,17 @@ We don't know if It's either 01: {ON , OFF}{STF BOOK , Infrastructures:}{Your Wr
 The Bits Inside:
 </H3>
 <ul><li><b>
-01:1: Stuff! Your Text, Wrap or Cube!
+01:1: YOUR STUFF! Your Text, Wrap or Cube, Concept References!
 </li><li>
-01:0: Connected Inclusion!!!
+01:0: <small>Connected Inclusion!!!</small>
 </li><li>
 01:x1: Wrap or CUBE ON!
 </li><li>
 01:x0: Wrap or CUBE OFF!
 </li><li>
-01:xx:1 STF BOOK with Standard Symbols (or YOUR BOOK!)
+01:xx:1 STF WRAP BOOK with Standard Wrap Symbols (or YOUR BOOK!)
 </li><li>
-01:xx:0 Infrastructure
+01:xx:0 <small>Infrastructure</small>
 </li><li></b>
 <!--
 or
@@ -109,7 +109,7 @@ or
 </li><li>
 01:xx:1 STF BOOK with Standard Symbols
 </li><li>
-01:xx:0 Infrastructure
+01:xx:0 <small>Infrastructure
 </li><li>
 or
 </li><li><b>
@@ -134,7 +134,9 @@ or
 on,off?
 </li><li>
 ... -->
-</li><li>
+
+
+<Small>
 Infrastructure WRAPs:
 <ul><li>
 111: Import a Context Reference
@@ -145,18 +147,35 @@ Infrastructure WRAPs:
 </li><li>
 100: Turns & Parts (Named Indexes & Refinements!)
 </li><li>
-011: Your new CUBE, Inclusion's CUBE
+011: Your new CUBE or Wrap, Inclusion's CUBE
 </li><li>
-010: Your new WRAP, Inclusion's BALL
+010: Symbol Refinements, Inclusion's BALL
 </li><li>
 001: Accurate Representations, <b>STUFFER</b>
 </li><li>
-000: <b>Stuff</b>! (adjacent)
+000: More <b>Stuff</b>! (adjacent)
 </li><li>
 </li></ul>
+</Small>
+</li></ul>
+</li></ul>
 
+
+<H3>
+STF* Sizes:
+</H3>
+<ul><li>
+4-Bit Educational
+</li><li>
+8-Bit Standard Text Format STF8
+</li><li>
+16-Bit Formalized STF16
+</li><li>
+Arbitrary Bit Scope &gt; 8 Bits
+</li><li>
+<small>Because the control channel is in the data channel, some use +2 more bits.</small>
 </li></ul>
-</li></ul>
+
 </td></tr></table>
 
 <p>
